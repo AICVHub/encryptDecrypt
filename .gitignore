@@ -8,3 +8,4 @@ dist/
 *.txt
 *.enc
 *.key
+release_files/
