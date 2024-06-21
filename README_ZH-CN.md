@@ -4,7 +4,7 @@
 一个基于Python的文件加密工具，提供图形用户界面(GUI)以方便地进行文件的加密和解密操作。
 
 ## 下载
-https://github.com/AICVHub/encryptDecrypt/releases
+不需配置环境，直接运行：https://github.com/AICVHub/encryptDecrypt/releases
 
 ## 环境要求
 - **Python环境**：确保已安装Python，tkinter库通常与Python环境一同安装。
