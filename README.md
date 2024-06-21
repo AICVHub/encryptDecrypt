@@ -4,6 +4,9 @@
 ## Introduction
 A Python-based file encryption tool that provides a graphical user interface (GUI) for easy encryption and decryption of files.
 
+## Download
+https://github.com/AICVHub/encryptDecrypt/releases
+
 ## System Requirements
 - **Python Environment**: Ensure Python is installed; the tkinter library typically comes bundled with the Python environment.
 - **cryptography Library**: Used for encryption operations. If not already installed, install it via the following command:
