@@ -1,4 +1,5 @@
 # File Encryption Tool
+**中文说明见：[README_ZH-CN.md](https://github.com/AICVHub/encryptDecrypt/blob/main/README_ZH-CN.md)** 
 
 ## Introduction
 A Python-based file encryption tool that provides a graphical user interface (GUI) for easy encryption and decryption of files.
